@@ -1,6 +1,6 @@
 # Hi, I'm Arnav Giri 
 
-### Writer & Web Developer at [BiharKalyan.in](https://biharkalyan.in)
+### Writer & Web Developer at [Arnav Giri](https://arnavgiri.github.io/)
 
 I'm passionate about web development, digital publishing, and creating useful online resources. I enjoy building practical web solutions, improving user experiences, and sharing valuable information.
 
